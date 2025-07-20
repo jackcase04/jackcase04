@@ -1,3 +1,3 @@
-Student studying Computer Science at Missouri University of Science and Technology.
+Computer Science and Engineering Student at Missouri S&T, and Software Engineer at BWT Automation
 
 Graduating 2027.
