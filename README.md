@@ -1,5 +1,9 @@
 <h1 align="center">🧑‍💻 Jack Case</h1>
 
+---
+
+## 🎓 About Me
+
 🎓 Computer Science and Engineering @ Missouri University of Science and Technology (Class of 2027)  
 💼 Summer '25 Software Engineering Intern @ BWT Automation  
 
