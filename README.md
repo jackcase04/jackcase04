@@ -13,8 +13,8 @@
 ## 🛠️ Languages & Tools
 
 - **Languages:** C++, Java, Python, JavaScript
-- **Frameworks & Databases:** Spring Boot, Flask, PostgreSQL, SQLite, React Native
-- **Tools & Platforms:** Git, Github, Linux, VS Code, Visual Studio, Railway, Vercel
+- **Frameworks & Databases:** Spring Boot, PostgreSQL, SQLite, React Native
+- **Tools & Platforms:** AWS, Docker, Railway, Vercel, Git
 
 ## 📫 Let's Connect
 
