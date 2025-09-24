@@ -2,12 +2,12 @@
 
 ## About Me
 
-- Computer Science and Engineering @ Missouri University of Science and Technology (Class of 2027)  
-- Summer '25 Software Engineering Intern @ BWT Automation  
+- Computer Science Major with Computer Engineering minor at Missouri University of Science and Technology (Class of 2027)  
+- Part-time Software Engineer @ BWT Automation
 
 ## What I'm Working On
 
-- **Robotics @ BWT Automation:** Working on developing code for robotics applications in C++, Java, and Python.
+- **Robotics at BWT Automation:** Working on developing code for robotics applications in C++, Java, and Python.
 - **CCH App:** A full-stack chore reminder app for my college house. Built with Spring Boot, PostgreSQL, and React Native. Handles 64 users with scheduled push notifications.
 
 ## Languages & Tools
