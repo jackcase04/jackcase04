@@ -3,7 +3,7 @@
 ## About Me
 
 - Computer Science Major with Computer Engineering minor at Missouri University of Science and Technology (Class of 2027)  
-- Part-time Software Engineer @ BWT Automation
+- Software Engineer at BWT Automation
 
 ## What I'm Working On
 
