@@ -8,7 +8,7 @@
 
 ## My Work
 
-- **HTTP Server from Scratch**: An HTTP Server written in C to better understand what backend frameworks abstract from the user. It is a work in progress.
+- **HTTP Server from Scratch**: An HTTP Server written in C to better understand what backend frameworks abstract from the user. Currently implementing concurrency using epoll() and HTTP parsing.
 - **CCH App**: A full-stack chore reminder app for my college house. Built with Spring Boot, PostgreSQL, and React Native. Handles 64 users with scheduled push notifications.
 
 ## Languages & Tools
